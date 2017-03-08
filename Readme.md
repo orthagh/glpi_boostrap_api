@@ -12,6 +12,5 @@ See [api.php](api.php) code for details.
 ## Installation
 
 * Clone this repository on your computer.
-* Move the directory into your http serveur vhost
 * Run ```composer install``` to pull dependencies
 * Create a config.inc.php from config.inc.example file and fill parameters with your glpi instance data
