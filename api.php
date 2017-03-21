@@ -1,7 +1,5 @@
 <?php
 
-include_once __DIR__."/index.php";
-
 if (!file_exists(__DIR__.'/vendor/autoload.php')) {
    throw new Exception("No vendor found, please run composer install --no-dev");
 }
