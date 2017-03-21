@@ -1,4 +1,4 @@
-# Boostrap script for usigin GLPI API
+# Boostrap script for using GLPI API
 
 This reposity aims to provide a bootstrap for using the Rest API of [GLPI](https://github.com/glpi-project/glpi).
 We are using [PHP Guzzle library](http://docs.guzzlephp.org/en/latest/) to send http queries.
